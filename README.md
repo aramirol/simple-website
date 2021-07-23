@@ -1,4 +1,6 @@
 # simple-website
 
-Simple web page to control the correct Powered-ON of the OpenShift cluster or testing simple deployments.
+Simple web page to do tests
+
+Do it with [https://nicepage.com/](https://nicepage.com/)
 
