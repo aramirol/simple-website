@@ -34073,69 +34073,46 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
+.u-header {
+  background-image: none;
+}
+
 .u-header .u-sheet-1 {
-  min-height: 128px;
+  min-height: 80px;
 }
 
 .u-header .u-image-1 {
-  width: 92px;
-  height: 92px;
-  animation-duration: 1000ms;
-  margin: 32px auto 0;
+  width: 64px;
+  height: 64px;
+  margin: 22px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
   width: 100%;
   height: 100%;
-  font-size: 1rem;
 }
 
 .u-header .u-menu-1 {
-  margin: -39px auto 0 0;
+  margin: -32px 0 22px auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
+  letter-spacing: 0px;
 }
 
 .u-header .u-nav-2 {
   font-size: 1rem;
-}
-
-.u-header .u-search-1 {
-  width: 254px;
-  min-height: 46px;
-  margin: -39px 0 4px auto;
+  letter-spacing: 0px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
-    margin-top: -39px;
-  }
-
-  .u-header .u-search-1 {
-    margin-top: -39px;
-    width: 254px;
-    height: auto;
-  }
-}
-
-
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 198px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 0;
-  }
-
-  .u-header .u-search-1 {
-    margin-bottom: 60px;
-    margin-right: initial;
-    margin-left: initial;
     width: auto;
   }
 }
+
+
+
 .u-footer {
   background-image: none;
 }
