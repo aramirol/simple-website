@@ -34112,7 +34112,21 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 108px;
+  }
 
+  .u-header .u-image-1 {
+    width: 47px;
+    height: 47px;
+    margin-top: 31px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -23px;
+  }
+}
 .u-footer {
   background-image: none;
 }

@@ -212,6 +212,8 @@
   background-image: none;
   font-weight: 700;
   font-family: "Bungee Shade";
+  text-transform: none;
+  letter-spacing: normal;
   margin: 72px 0 0;
 }
 
@@ -243,11 +245,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 339px;
-  }
-
-  .u-section-2 .u-text-1 {
-    text-transform: none;
-    letter-spacing: normal;
   }
 
   .u-section-2 .u-icon-1 {
@@ -286,7 +283,11 @@
   }
 
   .u-section-2 .u-social-icons-1 {
-    margin-top: 38px;
-    margin-left: 38px;
+    width: 128px;
+    margin-top: 40px;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-top: 23px;
   }
 }
