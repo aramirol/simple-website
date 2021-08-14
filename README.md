@@ -1,6 +1,7 @@
 # Simple Web Site
 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/aramirol/simple-website"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/aramirol/simple-website?color=red">
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/aramirol/simple-website?logo=github&logoColor=white)
+![GitHub Release Date](https://img.shields.io/github/release-date/aramirol/simple-website?color=red&logo=googlecalendar&logoColor=white)
 
 Simple website for testing :four: :zero: :four:
 
