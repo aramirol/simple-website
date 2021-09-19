@@ -3,11 +3,13 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aramirol/simple-website?logo=github&logoColor=white)
 ![GitHub Release Date](https://img.shields.io/github/release-date/aramirol/simple-website?color=red&logo=googlecalendar&logoColor=white)
 
-Simple website for testing :four: :zero: :four:
+Simple website for testing
 
-Do it with [https://nicepage.com/](https://nicepage.com/)
+<img src="images/screenshot.png" width="30%" />
 
-![](images/screenshot.png)
+## Website creation
+
+I made this website with [https://nicepage.com/-lex.europa.eu](https://nicepage.com/)
 
 ## License
 
